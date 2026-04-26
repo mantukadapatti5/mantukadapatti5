@@ -1,4 +1,108 @@
-## Hi there 👋
+## Hi there 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hey,%20I'm%20Manu%20👋&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descColor=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 *"I don't just write code — I architect solutions, automate the mundane, and ship things that matter."*
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+```yaml
+name        : Manu
+role        : Full Stack Developer + DevOps Engineer
+college     : ATME College of Engineering, Mysuru
+branch      : Computer Science & Engineering (2027)
+cgpa        : 8.7
+mindset     : ["Build fast", "Break barriers", "Iterate relentlessly"]
+superpower  : Turning complex problems into elegant, scalable solutions
+```
+
+> 🚀 *I thrive at the intersection of **code, cloud, and creativity** — where every line I write has a purpose.*
+
+---
+
+## 💡 Passion Lines
+
+- 🔥 **Obsessed with full-stack systems** that don't just work — they *scale, perform, and impress*.
+- ⚙️ **DevOps isn't just a skill — it's a mindset.** CI/CD, containers, automation — I live it.
+- 🧩 **Problem-solver by nature.** Give me a bug at 2 AM — I'm energized, not exhausted.
+- 🌐 **Blockchain + IoT + AI in one system?** Yes, I actually built that.
+- 📦 **I believe in shipping real products** — clean code, proper docs, production-grade thinking.
+- ⚡ **Speed with quality** — I move fast but I don't break things. I break assumptions.
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Signature Project
+
+### 💊 Drug Inventory & Supply Chain Tracking System
+
+| Layer | Tech Used |
+|-------|----------|
+| 🔗 Blockchain | Ethereum / Solidity Smart Contracts |
+| 📡 IoT | Sensor Integration for real-time tracking |
+| 🤖 AI/ML | Demand forecasting & anomaly detection |
+| 🖥️ Full Stack | React + Node.js + MongoDB |
+| ⚙️ DevOps | Docker, CI/CD pipelines |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mantukadapatti5&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantukadapatti5&layout=compact&theme=github_dark" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mantukadapatti5&theme=github-dark-blue)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🏗️ Building a **pharmaceutical supply chain platform** with Blockchain + AI + IoT
+- 📚 Mastering **Cloud Architecture** and **ML** at ATME COE
+- ⚡ Sharpening **DevOps skills** — containers, pipelines, infrastructure as code
+- 🎬 Running **Echo of Engines** — performance car content channel
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+
+*⭐ If my work excites you — drop a star. Let's build something extraordinary together.*
+
+</div>👋
 
 <!--
 **mantukadapatti5/mantukadapatti5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
