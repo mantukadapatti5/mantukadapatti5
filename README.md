@@ -1,5 +1,6 @@
 ## Hi there 
-<img width="1440" height="1084" alt="image" src="https://github.com/user-attachments/assets/2ed09f60-de00-484e-9743-f495e4ac9487" />
+<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/b9869b81-27c6-4c1d-a496-0f04dfcbcb39" />
+
 
 <!--
 **mantukadapatti5/mantukadapatti5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
