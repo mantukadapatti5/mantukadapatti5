@@ -1,118 +1,13 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Mahantesh V K</h1>
-<h3 align="center">Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
-
-<p align="center">
-  <a href="https://github.com/mantukadapatti5">
-    <img src="https://avatars.githubusercontent.com/mantukadapatti5" width="120" height="120" style="border-radius:50%" alt="Mahantesh V K"/>
-  </a>
-</p>
-
----
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+learning+new+things!" alt="Typing SVG" />
-</p>
-
----
-
-<!-- About Me -->
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on **my GitHub profile & open source projects**
-- 🌱 I'm currently learning **new technologies and frameworks**
-- 💬 Ask me about **anything tech related**
-- 📫 Reach me at **mantukadapatti5@gmail.com**
-- ⚡ Fun fact: **I love building cool things!**
-
----
-
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<!-- GitHub Jet Heatmap (Visual Contribution Map) -->
-## 🗺️ Contribution Heatmap
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mantukadapatti5/mantukadapatti5/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%"/>
-</p>
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mantukadapatti5">
-    <img src="https://github-readme-stats.vercel.app/api?username=mantukadapatti5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mantukadapatti5">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantukadapatti5&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mantukadapatti5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantukadapatti5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
-
----
-
-<!-- Activity Graph -->
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mantukadapatti5&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-<!-- Profile Views & Trophies -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mantukadapatti5&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mantukadapatti5&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-<!-- Connect -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:mantukadapatti5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahantesh-v-k-b708a133a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mantukadapatti5">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Star my repos if you find them useful!</i>
-</p>
+<a href="https://github.com/mantukadapatti5/mantukadapatti5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mantukadapatti5/mantukadapatti5/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/mantukadapatti5/mantukadapatti5/main/light.svg">
+  </picture>
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/mantukadapatti5/mantukadapatti5/main/dist/github-jet.svg"
+      alt="GitHub Jet Heatmap"
+      width="100%"
+    />
+  </p>
+</a>
